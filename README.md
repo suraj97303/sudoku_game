@@ -31,8 +31,6 @@ This project does not have any external dependencies. It is built using standard
 ## Contributing
 If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Contributions are welcome and appreciated.
 
-# javascript-sudoku
-
 # Game Link :
 
 https://suraj97303.github.io/sudoku_game/
