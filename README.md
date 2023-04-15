@@ -23,7 +23,6 @@ This is a Sudoku game built with HTML, CSS, and JavaScript. It allows players to
 - Complete the Sudoku puzzle by filling in all the cells correctly.
 - Once the puzzle is complete, a result screen will be displayed showing the time taken to complete the puzzle.
 
-### Enjoy playing Sudoku!
 
 ## Dependencies
 This project does not have any external dependencies. It is built using standard HTML, CSS, and JavaScript.
@@ -34,3 +33,5 @@ If you would like to contribute to this project, please fork the repository, mak
 # Game Link :
 
 https://suraj97303.github.io/sudoku_game/
+
+### Enjoy playing Sudoku!
