@@ -1,9 +1,4 @@
-# javascript-sudoku
 
-# Game Link :
-
-https://suraj97303.github.io/sudoku_game/
-<<<<<<< main
 ## Sudoku Game
 This is a Sudoku game built with HTML, CSS, and JavaScript. It allows players to play the classic Sudoku puzzle game with different levels of difficulty.
 
@@ -41,4 +36,3 @@ If you would like to contribute to this project, please fork the repository, mak
 # Game Link :
 
 https://suraj97303.github.io/sudoku_game/
->>>>>>> main
