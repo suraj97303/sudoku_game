@@ -10,7 +10,7 @@ This is a Sudoku game built with HTML, CSS, and JavaScript. It allows players to
 - Ability to pause and resume the game.
 - Ability to restart the game.
 - Ability to save and load game progress.
-- Dark mode toggle for better visibility.\
+- Dark mode toggle for better visibility.
 
 ## How to Play
 
